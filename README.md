@@ -1,9 +1,5 @@
 ### Hi there, I'm Dylan
 
-- 🔭 I’m currently working on a game review website
-- 🌱 I’m currently learning about different React libraries and their features
-- 📫 How to reach me: Email: dylfrancis505@gmail.com, Linkedin: https://www.linkedin.com/in/dylfrancis/
-
 <!--
 **dylfrancis/dylfrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
