@@ -10,7 +10,7 @@
 </p>
 <br clear="all">
 
-<sub>Live from my self-hosted <a href="https://github.com/gabehf/Koito">Koito</a>, drawn by <a href="https://github.com/dylfrancis/koito-card">koito-card</a>.</sub>
+<sub>Live from my self-hosted <a href="https://koito.dylfrancis.dev">Koito</a>, drawn by <a href="https://github.com/dylfrancis/koito-card">koito-card</a>.</sub>
 
 <!--
 **dylfrancis/dylfrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
