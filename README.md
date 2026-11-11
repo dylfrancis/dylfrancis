@@ -4,7 +4,7 @@
 
 <p align="right">
 <a href="https://github.com/dylfrancis/koito-card"><img alt="Now playing on Koito" src="https://koito-card.dylfrancis.dev/now-playing.svg?margin_bottom=40" width="48%" align="left"></a>
-<a href="https://github.com/dylfrancis/koito-card"><img alt="Top artists for the past 7 days" src="https://koito-card.dylfrancis.dev/top.svg?type=artists&limit=6" width="48%" align="left"></a>
+<a href="https://github.com/dylfrancis/koito-card"><img alt="Top artists for the past 7 days" src="https://koito-card.dylfrancis.dev/top.svg?type=artists&limit=6&height=428" width="48%" align="left"></a>
 <a href="https://github.com/dylfrancis/koito-card"><img alt="Listening stats for the past 7 days" src="https://koito-card.dylfrancis.dev/stats.svg?margin_bottom=40" width="48%" align="top"></a>
 <a href="https://github.com/dylfrancis/koito-card"><img alt="Top tracks for the past 7 days" src="https://koito-card.dylfrancis.dev/top.svg?type=tracks" width="48%" align="top"></a>
 </p>
