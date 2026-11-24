@@ -1,5 +1,7 @@
 ### Hi there, I'm Dylan
 
+<a href="https://github.com/sponsors/dylfrancis"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-ea4aaa?logo=githubsponsors&logoColor=white"></a>
+
 #### 🎧 What I'm listening to
 
 <p align="right">
